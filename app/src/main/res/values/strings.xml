@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">splashOne</string>
+    <string name="title_activity_splash_one">SplashActivityOne</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="splash_text">Доставка самой лучшей Пиццы</string>
+    <string name="welcome">Продолжение</string>
+</resources>
